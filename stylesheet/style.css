@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(248, 191, 200, 0.589);
+    height: 100vh;
+    width: auto;
+    font-family: monospace;
+    text-align: center;
+}
+.cont{
+    height: 40%;
+    width: 30%;
+    background-color: aquamarine;
+    border-radius: 100px;
+    border: 5px solid rgb(250, 136, 155);
+    color: rgba(250, 136, 155, 0.555);
+    background-color: rgba(250, 136, 155, 0.205);
+    margin: 0 auto;
+}
+p{
+    font-weight: bold;
+    font-size: 300px;
+}
+.blank{
+    height: 28%;
+    width: 100%;
+}
